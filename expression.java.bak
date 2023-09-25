@@ -1,0 +1,11 @@
+// Write a program to check the given expression is true or false. 'A'+'Z' <= 'a'+'z' and 49 < a char '1'?
+
+class Expression1 
+{
+	public static void main(String[] args) 
+	{
+		System.out.println('A'+'Z' <= 'a'+'z');
+
+		System.out.println(49 < a char '1');
+	}
+}
