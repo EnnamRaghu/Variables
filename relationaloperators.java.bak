@@ -1,0 +1,113 @@
+class Greaterthan 
+{
+	public static void main(String[] args) 
+	{
+		int a = 654;//greater than operation
+
+		int b = 432;
+
+		System.out.println(a > b);
+
+
+		double d1 = 12.4;
+
+		double d2 = 5.5;
+
+		System.out.println(d1 > d2);
+
+		int c = 12; //less than operation
+
+		int d = 34;
+
+			System.out.println(c < d);
+
+
+		int c1 = 12;
+
+		int c2 = 9;
+
+			System.out.println(c < d);
+
+			char c3 = 'A';
+
+			char c4 = 'B';
+
+			char c5 = '4';
+
+			char c6 = '6';
+
+			System.out.println(c3 < c4);
+			System.out.println(c5 < c6);
+
+
+		int a8= 654;//greater than or equal to operation
+
+		int b8 = 432;
+
+		System.out.println(a >= b);
+
+		int x = 4;//greater than or equal to operation
+
+		int y = 6;
+
+		System.out.println(x >= y);
+
+		//System.out.println("xy" >= 56); error
+
+		System.out.println('A'+2>=51);
+
+		System.out.println('A'+'B'>='A'+'B'+0-0); //Slove them by using ascii values.
+
+		int g1 = 43; //less than or equal to opearation.
+
+		int g2 = 55;
+
+		System.out.println(g1 <= g2);
+
+		int h4 = 73; //less than or equal to opearation.
+
+        int h5 = 55;
+
+		System.out.println(h4 <= h5);
+
+		int k = 4;//equal or equal to / double equal to.
+
+		int l = 4;
+
+		System.out.println(k == l);
+
+		int n = 5;
+
+		int n2 = 3;
+
+		System.out.println(n <= n2);
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+		
+	}
+}
